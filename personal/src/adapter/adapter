@@ -1,0 +1,5 @@
+if Class A can't access Class B then Adapter Class work like the middle man
+
+Class A request to Adapter Class and it translate the request compatible to Class B
+
+Adapter is a bridge between two incompatible interfaces
