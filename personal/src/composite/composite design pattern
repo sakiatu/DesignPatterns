@@ -1,0 +1,10 @@
+Step 01: Design the interface that defines the overall type : Structure.java
+Step 02: Implements the interface in composite class : Housing.java is the composite class
+         composite class contains a list of itself.
+
+         The composite design pattern is used to solve the issues of how to build
+         a tree-like structure of objects, and how to treat the individual types of
+         those objects uniformly.
+
+     * composite class can contain multiple composite class : Housing.java
+     * leaf class dont contain any class : Room.java
